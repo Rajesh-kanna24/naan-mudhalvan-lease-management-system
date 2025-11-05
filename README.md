@@ -8,5 +8,7 @@
 <img width="1919" height="1079" alt="Screenshot 2025-11-01 122426" src="https://github.com/user-attachments/assets/cc30db93-ea0f-4291-86c2-c9049c7875d8" />
 <img width="1919" height="1079" alt="Screenshot 2025-11-01 122414" src="https://github.com/user-attachments/assets/cbd976a9-78ca-4e73-bd03-fc65dd881479" />
 
-Link:
+
+
+Demo Link:
 https://youtu.be/mAr50DEHj3k
